@@ -46,7 +46,7 @@ This is not just a collection of files — it's a **learning journal**. Every fi
 
 ## 👤 Author
 
-**Muhammad Hassan** — [@mhassanworks](https://github.com/mhassanworks)
+**Mohammad Hassan** — [@mhassanworks](https://github.com/mhassanworks)
 
 *Building in public. Learning every week.*
 
